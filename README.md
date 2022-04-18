@@ -1,8 +1,9 @@
 # Howdy, I'm Amethyst!
 ## Info
 - I'm nonbinary and use they/them pronouns
-- I'm currently a student at **Bloomtech**
-- I'm learning **fullstack web development** with a particular focus on **front end work**
+- I'm was a student at **Bloomtech**
+- I'm  proficient in **fullstack web development** with a particular focus on **front end work**
+- As a young child I loved learning HTML and CSS which made me want to pursue it as a career
 - I'm always eager to **tackle new problems and learn**
 - Fun fact: I am slightly dyslexic which makes coding more interesting
 
